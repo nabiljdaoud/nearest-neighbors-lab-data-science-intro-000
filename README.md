@@ -357,7 +357,7 @@ nearest_three_neighbors
 #   'trip_distance': 17.3}]
 ```
 
-Ok great! Now that we can provide a new trip location, and find the distances of the three nearest trips, we can take  calculate an estimate of the trip distance for that new trip location.  
+Ok great! Now that we can provide a new trip location, and find the distances of the three nearest trips, we can then  calculate an estimate of the trip distance for that new trip location.  
 
 We do so simply by calculating the average of it's nearest neighbors.
 
